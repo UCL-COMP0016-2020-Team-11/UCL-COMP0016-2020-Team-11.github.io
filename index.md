@@ -6,6 +6,6 @@ This is an open source project being made with the collaboration of UCL, GOSH, a
 
 
 ### Contact
-Min Wang: min.wang.19@ucl.ac.uk
-Kelly Ding: kelly.ding.19@ucl.ac.uk
-Michael Chen: szu-han.chen.19@ucl.ac.uk
+> Min Wang: min.wang.19@ucl.ac.uk
+> Kelly Ding: kelly.ding.19@ucl.ac.uk
+> Michael Chen: szu-han.chen.19@ucl.ac.uk
