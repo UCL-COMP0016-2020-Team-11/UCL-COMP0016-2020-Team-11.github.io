@@ -2,4 +2,4 @@
 
 After meeting with our clients and take down many requirements, we outlined our thoughts using a mindmap.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![mindmap](https://github.com/UCL-COMP0016-2020-Team-11/UCL-COMP0016-2020-Team-11.github.io/blob/main/images/mindmap.png)
