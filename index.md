@@ -7,7 +7,7 @@ This is an open source project being made with the collaboration of UCL, GOSH, a
 
 [Gathering Requirements](./introduction.html)
 
-[Outline Requirements Logically] (./mindmap.html)
+[Outline Requirements Logically](./mindmap.html)
 
 
 
