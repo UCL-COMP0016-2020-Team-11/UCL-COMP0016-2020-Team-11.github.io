@@ -1,5 +1,7 @@
-# Making Senarios and Personas
+# Week October 31th 2020
+After meeting with our clients, we came up Senarios and Personas about our project.
 
+## Senarios
 ### Dietitian – The person who edit the video.
 - My clinical background is as a Dietitian and I specialised in a field known as artificial feeding. This is where a patient receives nutrition via a feeding tube as they 
 are unable to eat and drink due to an unsafe swallow. This can either be via a tube into their stomach (NG feeding is an example), or via a tube that delivers nutrients 
@@ -15,3 +17,5 @@ that action. Eventually, I would like to upload the video to a reliable online p
 - But luckily, my teacher provided us a set of 360-videos and it helps me understanding the real situation and tells me what results I will have if I am slightly wrong in 
 several steps. The 360-video makes me feel that I am working in the real environment and I can interact with the video by clicking the hotspots. Also I can navigate through
 the videos by subtitles and hotspots, even there’s a translation of subtitles so that I can watch videos provided by clinicians from other countries.
+
+## Personas
