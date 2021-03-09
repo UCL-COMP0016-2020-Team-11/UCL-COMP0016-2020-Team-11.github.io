@@ -3,7 +3,7 @@ This is an open source project being made with the collaboration of UCL, GOSH, a
 
 # Development procedure
 
-## Phase 1: [Clarify Requirements] (./phase1.html)
+## Phase 1: [Clarify Requirements](./phase1.html)
 ## Phase 2: Making Senarios and Prototypes
 ## Phase 3: Inplementing first demo
 ## Phase 4: Work with real cases
