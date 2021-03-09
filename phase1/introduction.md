@@ -1,4 +1,5 @@
-# Gathering requirements
+# Week October 17th 2020
+- Gathering Requirements from clients.
 
 ## This is the introduction paragraph we received from the project introduction email.
 UCL, GOSH and Avanade are working together on this second iteration of this open source project. This work will be led with the simulation team at GOSH. The project will involve building an editor with layers and interactive timeline hotspots that apply situated cognition 360 videos to a handful of human factors training sessions during a series of emergency scenarios. Speech transcription with Deepspeech or other local speech recognition should be included to generate searchable summary notes that allow you to jump through the timeline and position in 360, as well as generate multilingual text for all users. The open source project will reside in the NHS index at Apperta Foundation.
