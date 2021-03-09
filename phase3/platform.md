@@ -1,4 +1,5 @@
-# Week 
+# Week November 21th 2020
+We met with our client Professor Dean Mohamedally and discussed about what platform should we use to build our project.
 
 ## As this is a project inherited from last year...
 - The group from last year implemented the player in unity and the rest of the work(choose file,
