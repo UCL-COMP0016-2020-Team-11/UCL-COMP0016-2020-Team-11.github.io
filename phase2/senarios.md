@@ -19,3 +19,5 @@ several steps. The 360-video makes me feel that I am working in the real environ
 the videos by subtitles and hotspots, even there’s a translation of subtitles so that I can watch videos provided by clinicians from other countries.
 
 ## Personas
+
+<a href="/images/persona-clinician.png"><img src="/images/persona-clinician.png" style="max-width: 100%; display: block; margin: 10px auto;"></a> 
