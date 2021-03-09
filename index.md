@@ -4,7 +4,7 @@ This is an open source project being made with the collaboration of UCL, GOSH, a
 # Development procedure
 
 ## Phase 1: [Clarify Requirements](./phase1/phase1.html)
-## Phase 2: Making Senarios and Prototypes
+## Phase 2: [Making Senarios and Prototypes](./phase2/phase2.html)
 ## Phase 3: Learning Unity 
 ## Phase 4: Inplementing first demo
 ## Phase 5: Work with real cases
