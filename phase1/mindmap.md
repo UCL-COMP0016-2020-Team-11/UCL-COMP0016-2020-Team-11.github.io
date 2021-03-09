@@ -1,4 +1,7 @@
-# Outline Requirements Logically
+# Week October 24th 2020
+- Outline Requirements Logically.
+
+## Outline Requirements Logically
 
 After meeting with our clients and take down many requirements, we outlined our thoughts using a mindmap.
 
