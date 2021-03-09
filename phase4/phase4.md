@@ -11,5 +11,16 @@
 - Allow photos browsed and added to the hotspot.
 - Allow situated cognition 360 videos browsed and added to the hotspot, and play that video.
 - Back to previous 360 video.
+- Set display endtime of a hotspot.
+- Delete the hotspot.
 
 ## Demo Screenshots
+
+<a href="/images/demo-1.png"><img src="/images/demo-1.png" style="max-width: 90%; display: block; margin: 10px auto;"></a> 
+<a href="/images/demo-2.png"><img src="/images/demo-2.png" style="max-width: 90%; display: block; margin: 10px auto;"></a> 
+<a href="/images/demo-3.png"><img src="/images/demo-3.png" style="max-width: 90%; display: block; margin: 10px auto;"></a> 
+<a href="/images/demo-4.png"><img src="/images/demo-4.png" style="max-width: 90%; display: block; margin: 10px auto;"></a> 
+<a href="/images/demo-5.png"><img src="/images/demo-5.png" style="max-width: 90%; display: block; margin: 10px auto;"></a> 
+<a href="/images/demo-6.png"><img src="/images/demo-6.png" style="max-width: 90%; display: block; margin: 10px auto;"></a> 
+<a href="/images/demo-7.png"><img src="/images/demo-7.png" style="max-width: 90%; display: block; margin: 10px auto;"></a> 
+<a href="/images/demo-8.png"><img src="/images/demo-8.png" style="max-width: 90%; display: block; margin: 10px auto;"></a> 
