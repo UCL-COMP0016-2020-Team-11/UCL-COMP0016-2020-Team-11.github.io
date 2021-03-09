@@ -21,3 +21,4 @@ the videos by subtitles and hotspots, even there’s a translation of subtitles 
 ## Personas
 
 <a href="/images/persona-clinician.jpg"><img src="/images/persona-clinician.jpg" style="max-width: 100%; display: block; margin: 10px auto;"></a> 
+<a href="/images/images/persona-student.PNG"><img src="/images/images/persona-student.PNG" style="max-width: 100%; display: block; margin: 10px auto;"></a> 
