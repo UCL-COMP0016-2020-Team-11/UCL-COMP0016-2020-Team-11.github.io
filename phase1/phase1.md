@@ -1,6 +1,8 @@
-### Phase 1: Gathering User Requirements
+# Phase 1: Gathering User Requirements
 
 
-- [Gathering Requirements](./introduction.html)
+## [Week October 17th 2020](./introduction.html)
+- Gathering Requirements from clients.
 
-- [Outline Requirements Logically](./mindmap.html)
+## [Week October 24th 2020](./mindmap.html)
+- Outline Requirements Logically.
