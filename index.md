@@ -9,9 +9,9 @@
 ## Phase 2: [Making Senarios and Prototypes](./phase2/phase2.html)
 ## Phase 3: [Prepare for Implementation](./phase3/phase3.html)
 ## Phase 4: [Inplementing first demo](./phase4/phase4.html)
-## Phase 5: Work with real cases
-## Phase 6: Full inplementation
-## Phase 7: Fixs bugs and UI minor problems
+## Phase 5: [Work with real cases](./phase5/phase5.html)
+## Phase 6: [Full inplementation](./phase6/phase6.html)
+## Phase 7: [Fixs bugs and UI minor problems](./phase7/phase7.html)
 
 # Contacts
 - Min Wang: min.wang.19@ucl.ac.uk  
