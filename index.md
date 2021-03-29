@@ -2,6 +2,7 @@
 - This is an open source project being made with the collaboration of UCL, GOSH, and Avanade. 
 - It consists of a 360-video editor featuring layers, dynamic timeline hotspots that are interactable, and speech transcriptions in various languages. 
 - This software allows users in training sessions to be effectively informed about emergency scenarios.
+<a href="/images/sys-diagram.jpg"><img src="/images/sys-diagram.jpg" style="max-width: 80%; display: block; margin: 10px auto;"></a> 
 
 ## Development procedure
 - This project is about building an editor with layers and interactive timeline hotspots that apply situated cognition 360 videos to a handful of human factors training sessions during a series of emergency scenarios.  
