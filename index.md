@@ -15,10 +15,10 @@
 
 # We have finished our project!
 - Project Website: [http://students.cs.ucl.ac.uk/2020/group11/index.html](http://students.cs.ucl.ac.uk/2020/group11/index.html)
-- GitHub repo: https://github.com/Apperta-IXN-for-the-NHS/SC360Editor2021 
+- [GitHub repo](https://github.com/Apperta-IXN-for-the-NHS/SC360Editor2021)
 - Build projects can also be found at 
-> - Editor: https://github.com/UCL-COMP0016-2020-Team-11/editor-software/releases/latest
-> - Player: https://github.com/UCL-COMP0016-2020-Team-11/player-software/releases/latest 
+> - [Editor](https://github.com/UCL-COMP0016-2020-Team-11/editor-software/releases/latest)
+> - [Player](https://github.com/UCL-COMP0016-2020-Team-11/player-software/releases/latest)
 - We also have a written paper and a microsoft blog page, and the links will be updated as they become available!
 
 # Contacts
