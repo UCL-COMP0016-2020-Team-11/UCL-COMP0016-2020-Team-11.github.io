@@ -13,6 +13,14 @@
 ## Phase 6: [Full inplementation](./phase6/phase6.html)
 ## Phase 7: [Fixs bugs and UI minor problems](./phase7/phase7.html)
 
+# We have finished our project!
+- Project Website: http://students.cs.ucl.ac.uk/2020/group11/index.html
+- GitHub repo: https://github.com/Apperta-IXN-for-the-NHS/SC360Editor2021 
+- Build projects can also be found at 
+> - Editor: https://github.com/UCL-COMP0016-2020-Team-11/editor-software/releases/latest
+> - Player: https://github.com/UCL-COMP0016-2020-Team-11/player-software/releases/latest 
+- We also have a written paper and a microsoft blog page, and the links will be updated as they become available!
+
 # Contacts
 - Min Wang: min.wang.19@ucl.ac.uk  
 - Kelly Ding: kelly.ding.19@ucl.ac.uk  
