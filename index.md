@@ -4,7 +4,9 @@
 - This software allows users in training sessions to be effectively informed about emergency scenarios.
 
 ## Development procedure
-
+- This project is about building an editor with layers and interactive timeline hotspots that apply situated cognition 360 videos to a handful of human factors training sessions during a series of emergency scenarios.  
+- We first clarify the requirements from our perspective users and our clients. We created personas and scenarios from the users’ side and drew out interactive prototypes.  
+- We implemented the project in unity. The project allows the user to annotate a situated cognition 360 video with hotspots that contains explanatory information. A named hotspot could contain information written in text or displayed in image or situated cognition 360 video. The editor could solve all this information in a file package, with all the details in a json file.
 ### Phase 1: [Clarify Requirements](./phase1/phase1.html)
 ### Phase 2: [Making Senarios and Prototypes](./phase2/phase2.html)
 ### Phase 3: [Prepare for Implementation](./phase3/phase3.html)
@@ -13,7 +15,7 @@
 ### Phase 6: [Full inplementation](./phase6/phase6.html)
 ### Phase 7: [Fixs bugs and UI minor problems](./phase7/phase7.html)
 
-# We have finished our project!
+# We have finished our project! 
 - Project Website: [http://students.cs.ucl.ac.uk/2020/group11/index.html](http://students.cs.ucl.ac.uk/2020/group11/index.html)
 - [GitHub repo](https://github.com/Apperta-IXN-for-the-NHS/SC360Editor2021)
 - Build projects can also be found at 
@@ -21,7 +23,8 @@
 > - [Player](https://github.com/UCL-COMP0016-2020-Team-11/player-software/releases/latest)
 - We also have a written paper and a microsoft blog page, and the links will be updated as they become available!
 
-# Contacts
+## Contacts
 - Min Wang: min.wang.19@ucl.ac.uk  
 - Kelly Ding: kelly.ding.19@ucl.ac.uk  
 - Michael Chen: szu-han.chen.19@ucl.ac.uk  
+ 
