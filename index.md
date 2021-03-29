@@ -13,6 +13,8 @@
 ### Phase 6: [Full inplementation](./phase6/phase6.html)
 ### Phase 7: [Fixs bugs and UI minor problems](./phase7/phase7.html)
 
+<a href="/images/gnatt_chart.png"><img src="/images/gnatt_chart.png" style="max-width: 60%; display: block; margin: 10px auto;"></a> 
+
 # We have finished our project!
 - Project Website: [http://students.cs.ucl.ac.uk/2020/group11/index.html](http://students.cs.ucl.ac.uk/2020/group11/index.html)
 - [GitHub repo](https://github.com/Apperta-IXN-for-the-NHS/SC360Editor2021)
